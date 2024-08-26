@@ -1,1 +1,1 @@
-Second file
+Second file which was updated in new_feature branch in fourth commit
